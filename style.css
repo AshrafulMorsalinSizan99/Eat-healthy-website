@@ -1,0 +1,67 @@
+.orange-color {
+    color: orange;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Montserrat;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 15px 30px;
+    border-radius: 20px;
+}
+
+.half-width {
+    width: 50%;
+    padding: 2%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+body p {
+    font-size: 20px;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    color: gray;
+    padding: 2em;
+}
+
+.text {
+    text-align: center;
+}
+
+#recipie-title {
+    border-left: 7px solid tomato;
+}
+
+.experience-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.receipe-title img {
+    width: 100%;
+}
+
+.text p {
+    text-align: center;
+}
